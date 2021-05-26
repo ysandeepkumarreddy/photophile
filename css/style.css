@@ -10674,7 +10674,7 @@ button.bg-dark:focus {
     text-align: left !important;
   }
   .text-md-right {
-    text-align: right !important;
+    text-align: inherit;
   }
   .text-md-center {
     text-align: center !important;
@@ -12179,6 +12179,7 @@ h3 {
   color: yellow;
   font-family: "Dancing Script", cursive;
   line-height: 1.2;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: lighter;
+  text-align: center;
 }
